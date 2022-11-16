@@ -1,0 +1,125 @@
+ .u-section-1 {
+  background-image: url("images/vcvv-min.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1114px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 400;
+  margin: 80px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 259px;
+  height: 47px;
+  margin: 48px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 488px;
+  height: 488px;
+  background-image: url("images/z3884108996916_d182dbe6a91af057d835b02449a4b4dc.jpg");
+  background-position: 50% 50%;
+  margin: -119px -18px 0 auto;
+}
+
+.u-section-1 .u-list-1 {
+  width: 670px;
+  margin: -338px auto 60px -12px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(50% - 11px) calc(50% - 11px);
+  min-height: 384px;
+  grid-gap: 22px 22px;
+}
+
+.u-section-1 .u-list-item-1 {
+  background-image: none;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-1 .u-list-item-2 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(33.3333% - 14.6667px) calc(33.3333% - 14.6667px) calc(33.3333% - 14.6667px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 704px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 11px) calc(50% - 11px);
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 184px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+    margin-top: -190px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
