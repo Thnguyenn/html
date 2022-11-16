@@ -1,0 +1,246 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1231px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 228px;
+  height: 228px;
+  margin: 21px auto 0 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-family: Ubuntu, sans-serif;
+  margin: -150px 0 0 301px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 527px;
+  min-height: 477px;
+  height: auto;
+  margin: 195px 26px 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 40px;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.875rem;
+  margin: 53px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 1.875rem;
+  font-weight: 300;
+  margin: 30px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 557px;
+  width: 557px;
+  background-image: url("images/avatarTN.jpg");
+  background-position: 50% 50%;
+  margin: -659px auto 0 68px;
+}
+
+.u-section-1 .u-image-2 {
+  height: 310px;
+  width: 310px;
+  background-image: url("images/avtTN2.jpg");
+  background-position: 50% 50%;
+  margin: -184px auto 0 0;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 147px;
+  height: 147px;
+  margin: -88px auto 60px 310px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1182px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 193px;
+    height: 193px;
+    margin-top: 146px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: -287px;
+    margin-left: 201px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 470px;
+    margin-top: 415px;
+    margin-right: 0;
+    height: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 588px;
+    width: 588px;
+    margin-top: -802px;
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 273px;
+    width: 273px;
+    margin-top: -178px;
+    margin-left: 20px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 118px;
+    height: 118px;
+    margin-top: 27px;
+    margin-left: 196px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1397px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 239px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.625rem;
+    margin-top: -352px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 446px;
+    margin-top: 628px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding: 30px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: -922px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 229px;
+    width: 229px;
+    margin-top: -177px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: 43px;
+    margin-left: 118px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1768px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 198px;
+    margin-left: 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.5rem;
+    margin-top: -311px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: 1043px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 528px;
+    width: 528px;
+    margin-top: -1276px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: -97px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -27px;
+    margin-right: 139px;
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1506px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 134px;
+    height: 134px;
+    margin-top: 201px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.75rem;
+    margin-top: -255px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 498px;
+    margin-top: 788px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 317px;
+    height: 317px;
+    margin-top: -1160px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 200px;
+    width: 200px;
+    margin-top: -10px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 98px;
+    height: 98px;
+    margin-top: 23px;
+    margin-right: 72px;
+  }
+}
